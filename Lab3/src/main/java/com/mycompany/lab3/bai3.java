@@ -5,7 +5,7 @@ package com.mycompany.lab3;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//phu
 /**
  *
  * @author ICT
